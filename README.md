@@ -1,2 +1,2 @@
 # Podsused-Games
-quick look at Podsused games i younger categories
+quick look at Podsused games in younger categories
