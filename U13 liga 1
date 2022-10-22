@@ -1,0 +1,55 @@
+<title>U13</title>
+<h1>PODSUSED U13 PRVA LIGA</h1>
+<h1>SEZONA 2022./23.</h1>
+<h2>0-0</h2>
+<style>
+  b {
+    font-size: 24px;
+    background-color: lightgreen;
+  }
+</style>
+<style>
+  i {
+    font-size: 24px;
+    background-color: red;
+  }
+</style>
+<style>
+  body {
+    background: orange;
+    padding: 64px;
+    text-align: center;
+  }
+</style>
+<style>
+  .button1 {
+    background-color: orange;
+    color: black;
+    border: 1px solid red;
+  }
+
+  .button1:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+</style>
+<script>
+  function myFunction() {
+    window.location.href = "https://U12-Podsused.lovropavlesic.repl.co";
+  }
+
+  function myFunction1() {
+    window.location.href = "https://U12-podsused-21.lovropavlesic.repl.co";}
+    
+    function myFunction2() {
+    window.location.href = "https://u13-1liga.lovropavlesic.repl.co";
+  }</script>
+
+<button class="button button1" id="demo" onclick="myFunction()">Sezona 2022./23. U12</button>
+<button  class="button button1" id="demo" onclick="myFunction1()">Sezona 2021./22. U12</button>
+
+<button class="button button1"  id="demo" onclick="myFunction2()">Sezona 2022./23. U13 1.liga</button>
+<br><br>
+
+<h3>NIŠTA NIJE ODIGRANO</h3>
+<h3>PRVA TEKMA 29.10.2022. PODSUSED vs PEŠĆA</h3>
